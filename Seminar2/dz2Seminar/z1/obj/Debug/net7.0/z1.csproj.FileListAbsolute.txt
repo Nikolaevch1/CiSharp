@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/bin/Debug/net7.0/z1
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/bin/Debug/net7.0/z1.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/bin/Debug/net7.0/z1.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/bin/Debug/net7.0/z1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/bin/Debug/net7.0/z1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/refint/z1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/z1.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Seminar2/dz2Seminar/z1/obj/Debug/net7.0/ref/z1.dll
