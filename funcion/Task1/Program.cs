@@ -1,72 +1,86 @@
-﻿int n = 5;
-
-int i = 1;
-while (i <= n)
+﻿void PrintSquares (int limit)
 {
-    System.Console.WriteLine($"{i * i} ");
-    i = i + 1:
+   int i = 1;
+    while (i <= limit)
+    {
+    System.Console.Write($"{i * i} ");
+    i++;
+    }    
 }
 
-n = 10;
-i = 1;
-while (i <= n)
-{
-    System.Console.WriteLine($"{i * i} ");
-    i = i + 1:
-}
+PrintSquares(5);
+PrintSquares(10);
+PrintSquares(15);
 
-n = 15;
-i = 1;
-while (i <= n)
-{
-    System.Console.WriteLine($"{i * i} ");
-    i = i + 1:
-}
+// int n = 5;
 
-// функция возведения в степень
-int Square (int value)
-{
-    int result = value * value;
-    return result;
-}
+// int i = 1;
+// while (i <= n)
+// {
+//     System.Console.WriteLine($"{i * i} ");
+//     i = i + 1:
+// }
 
-// функция перемножения
-int Mutiply (int value1, int value2)
-{
-    int result = value1 * value2;
-    return result;
-}
+// n = 10;
+// i = 1;
+// while (i <= n)
+// {
+//     System.Console.WriteLine($"{i * i} ");
+//     i = i + 1:
+// }
 
-// Тип возрощаемого значения
-void ShowSquare (int value)
-{
-    int result = value * value;
-System.Console.WriteLine(result);
-}
+// n = 15;
+// i = 1;
+// while (i <= n)
+// {
+//     System.Console.WriteLine($"{i * i} ");
+//     i = i + 1:
+// }
 
-// Функции без параметров
-// без параметров, бeз возвращаемого значения
-void ShowHellMassage ()
-{
-System.Console.WriteLine("Hello Word!");
-}
+// // // функция возведения в степень
+// // int Square (int value)
+// // {
+// //     int result = value * value;
+// //     return result;
+// // }
 
-// без параметров, c возвращаемым значением
-double GetPi()
-{
-    return 3.14159;
-}
+// // // функция перемножения
+// // int Mutiply (int value1, int value2)
+// // {
+// //     int result = value1 * value2;
+// //     return result;
+// // }
 
-// Функции с папрметрами
-// с параметрами, бeз возвращаемого значения
-void ShowHellMassage (string message)
-{
-System.Console.WriteLine(message);
-}
+// // // Тип возрощаемого значения
+// // void ShowSquare (int value)
+// // {
+// //     int result = value * value;
+// // System.Console.WriteLine(result);
+// // }
 
-// с параметрами, c возвращаемым значением
-int AddValues(int a, int b)
-{
-    int result = a + b;
-    return result;
-}
+// // // Функции без параметров
+// // // без параметров, бeз возвращаемого значения
+// // void ShowHellMassage ()
+// // {
+// // System.Console.WriteLine("Hello Word!");
+// // }
+
+// // // без параметров, c возвращаемым значением
+// // double GetPi()
+// // {
+// //     return 3.14159;
+// // }
+
+// // // Функции с папрметрами
+// // // с параметрами, бeз возвращаемого значения
+// // void ShowHellMassage (string message)
+// // {
+// // System.Console.WriteLine(message);
+// // }
+
+// // // с параметрами, c возвращаемым значением
+// // int AddValues(int a, int b)
+// // {
+// //     int result = a + b;
+// //     return result;
+// // }
