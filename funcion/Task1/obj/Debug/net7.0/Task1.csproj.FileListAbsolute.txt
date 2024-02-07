@@ -1,0 +1,4 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/funcion/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/funcion/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/funcion/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/funcion/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
