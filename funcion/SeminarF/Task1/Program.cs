@@ -41,7 +41,7 @@ int[] GetRandomArray(int size, int minValue, int maxValue) // Фукция ра�
     int[] array = new int[size];
     Random rnd = new Random();
 
-    for(int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
         array[i] = rnd.Next(minValue, maxValue + 1);
     }
@@ -49,8 +49,7 @@ int[] GetRandomArray(int size, int minValue, int maxValue) // Фукция ра�
 }
 // int[] GetRandomArray(int size, int minValue = 1, int maxValue = 99) // Установка минимальных и максимальных значений
 
-
-int GetArrayFromConsole() // Функция ручнного ввода размера и элементов массива
+int[] GetArrayFromConsole() // Функция ручнного ввода размера и элементов массива
 {
     Console.Write("add Size: ");
     int size = int.Parse(Console.ReadLine()!);
@@ -78,7 +77,7 @@ int CountPrimeNumbers(int[] array) // Функция определение пр
 {
     int count = 0;
 
-    foreach(var elem in array)
+    foreach (var elem in array)
     {
         if (IsPrime(elem))
         {
@@ -89,12 +88,11 @@ int CountPrimeNumbers(int[] array) // Функция определение пр
 }
 
 
-
 int[] array = GetRandomArray(6, 1, 99);
 PrintArray(array);
 
 int[] array2 = GetArrayFromConsole();
 PrintArray(array2);
 
-System.Console.WriteLine($"Количество простых чисел:  {CountPrimeNumbers(array)}"); 
-System.Console.WriteLine($"Количество простых чисел:  {CountPrimeNumbers(array2)}"); 
+System.Console.WriteLine($"Количество простых чисел:  {CountPrimeNumbers(array)}");
+System.Console.WriteLine($"Количество простых чисел:  {CountPrimeNumbers(array2)}");
