@@ -19,13 +19,47 @@ Console.WriteLine(Math.Pow(b1, c1)); // Math.Pow возведение в сте�
 //является ли второе число кратным первому. Если второе число некратно первому, 
 // то программа выводит остаток от деления.
 
-int num1, num2 = 14, 5;
-
-if (true)
+int num1 = 14;
+int num2 = 5;
+int delenie = num1 % num2;
+if (delenie == 0)
 {
-    
+    Console.WriteLine("да");
 }
 else
 {
-    Console.WriteLine(num1 % num2);
+    Console.Write("нет, ");
+    Console.WriteLine(delenie);
+}
+
+Console.WriteLine($"нет, {delenie}");
+
+
+
+// .WriteLineConsole("Введите строку для преобразования в число:");
+
+// int result;
+
+// bool isParse = int.TryParse(Console.ReadLine()!, out result);
+
+// if (isParse)
+// {
+//     Console.WriteLine($"Успешно. {result}");
+// }
+// else
+// {
+//     Console.WriteLine("Попробуйте заного...");
+// }
+
+// Напишите программу, которая выводит третью с конца цифру заданного числа или сообщает, что третьей цифры нет.
+
+int nums = 12;
+int number = nums / 100;
+if (nums/ 100 !=0)
+{
+    System.Console.WriteLine(number % 10);
+}
+else
+{
+    System.Console.WriteLine("Третьей цифры нет");
 }
