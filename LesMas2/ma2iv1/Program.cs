@@ -1,5 +1,4 @@
-﻿int[,] GreateMatrix(
-    int rowsCount, int columnsCount) // Функция создания двумерного массива
+﻿int[,] GreateMatrix(int rowsCount, int columnsCount) // Функция создания двумерного массива
 {
     int[,] matrix = new int[rowsCount, columnsCount];
     Random rnd = new Random();
