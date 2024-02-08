@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/bin/Debug/net7.0/ma2iv3
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/bin/Debug/net7.0/ma2iv3.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/bin/Debug/net7.0/ma2iv3.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/bin/Debug/net7.0/ma2iv3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/bin/Debug/net7.0/ma2iv3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/refint/ma2iv3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ma2iv3.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/LesMas2/ma2iv3/obj/Debug/net7.0/ref/ma2iv3.dll
