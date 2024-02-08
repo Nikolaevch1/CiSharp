@@ -1,0 +1,4 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem1/obj/Debug/net7.0/Sem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem1/obj/Debug/net7.0/Sem1.csproj.CoreCompileInputs.cache

@@ -1,4 +1,4 @@
-﻿int[,] GetArray(int rows, int cols, int minValue = 0, int maxValue = 10)
+﻿int[,] GetArray(int rows, int cols, int minValue = 0, int maxValue = 10) // создание двухмерного массива от 0 до 10
 {
     int[,] table = new int[rows, cols];
 
