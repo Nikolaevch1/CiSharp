@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/bin/Debug/net7.0/Sem3
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/bin/Debug/net7.0/Sem3.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/bin/Debug/net7.0/Sem3.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/bin/Debug/net7.0/Sem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/bin/Debug/net7.0/Sem3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/refint/Sem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/Sem3.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/SeminarMasiv/Sem3/obj/Debug/net7.0/ref/Sem3.dll
