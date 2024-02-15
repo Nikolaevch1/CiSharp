@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/bin/Debug/net7.0/Alternativ
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/bin/Debug/net7.0/Alternativ.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/bin/Debug/net7.0/Alternativ.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/bin/Debug/net7.0/Alternativ.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/bin/Debug/net7.0/Alternativ.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/refint/Alternativ.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/Alternativ.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/Alternativ/obj/Debug/net7.0/ref/Alternativ.dll

@@ -1,24 +1,17 @@
-﻿using System;
-
-class Program
+﻿void PrintRange(int n, int m = 1)
 {
-static void Main()
-{
-int M = 1;
-int N = 5;
-
-    PrintNumbers(M, N);
-}
-
-static void PrintNumbers(int m, int n)
-{
-    if (m == n)
+    if (m > n)
     {
-        Console.WriteLine(m);
+        Console.WriteLine();
         return;
     }
-
+    
     Console.Write($"{m} ");
-    PrintNumbers(m + 1, n);
+
+    PrintRange(n, m+1);
 }
-}
+
+Console.Write("Введите число: ");
+int n = int.Parse(Console.ReadLine()!);
+
+PrintRange(n);
