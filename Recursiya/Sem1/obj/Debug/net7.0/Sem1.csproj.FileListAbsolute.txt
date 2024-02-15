@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/bin/Debug/net7.0/Sem1
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/bin/Debug/net7.0/Sem1.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/bin/Debug/net7.0/Sem1.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/bin/Debug/net7.0/Sem1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/bin/Debug/net7.0/Sem1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/refint/Sem1.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/Sem1.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/Sem1/obj/Debug/net7.0/ref/Sem1.dll

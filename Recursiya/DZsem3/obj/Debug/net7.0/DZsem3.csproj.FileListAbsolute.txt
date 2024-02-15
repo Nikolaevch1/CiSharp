@@ -1,0 +1,14 @@
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/bin/Debug/net7.0/DZsem3
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/bin/Debug/net7.0/DZsem3.deps.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/bin/Debug/net7.0/DZsem3.runtimeconfig.json
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/bin/Debug/net7.0/DZsem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/bin/Debug/net7.0/DZsem3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.AssemblyInfoInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.AssemblyInfo.cs
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.csproj.CoreCompileInputs.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/refint/DZsem3.dll
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.pdb
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/DZsem3.genruntimeconfig.cache
+/Users/wsharanovcloud.com/Desktop/Ci_sharp/Recursiya/DZsem3/obj/Debug/net7.0/ref/DZsem3.dll
